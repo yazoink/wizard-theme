@@ -1,0 +1,21 @@
+system: "base16"
+name: "Wizard"
+author: "yazoink (https://yazo.ink)"
+variant: "dark"
+palette:
+  base00: "1B0823" # ---- dark
+  base01: "371F2E" # ---
+  base02: "53373A" # --
+  base03: "6F4E45" # -
+  base04: "A77D5C" # +
+  base05: "DFAC73" # ++
+  base06: "DFAC73" # +++
+  base07: "DFAC73" # ++++ light
+  base08: "CF320B" # red
+  base09: "EC8731" # orange
+  base0A: "F0BB30" # yellow
+  base0B: "757A44" # green
+  base0C: "879872" # cyan
+  base0D: "727085" # blue
+  base0E: "9A1120" # purple
+  base0F: "8A3338" # brown
